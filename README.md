@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/I-Mohiuddin/<OWNER>/<OWNER>/readme_header.png "Header")](https://photos.app.goo.gl/Br7sZ6DroAgkSDWp6)
-### Hi there 👋
+![Imran Mohiuddin MD](https://user-images.githubusercontent.com/74197080/142269404-e487a7c1-20ed-4d82-8b7f-e53d44513d87.png)
 
 <!--
 **I-Mohiuddin/I-Mohiuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
