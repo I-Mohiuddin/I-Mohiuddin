@@ -1,4 +1,4 @@
-![Imran Mohiuddin MD](https://user-images.githubusercontent.com/74197080/142269404-e487a7c1-20ed-4d82-8b7f-e53d44513d87.png)
+![Imran Mohiuddin MD (2)](https://user-images.githubusercontent.com/74197080/142275552-af4c3077-515b-449c-bcc4-98a76586fdec.png)
 
 <!--
 **I-Mohiuddin/I-Mohiuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
